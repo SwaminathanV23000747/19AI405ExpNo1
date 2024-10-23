@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Swaminathan.V D3>
+<h3>Name: Swaminathan.V <h3>
 <h3>Register Number: 212223110057</h3>
 
 
